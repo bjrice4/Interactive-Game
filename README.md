@@ -1,4 +1,4 @@
-# Interactive-System-Verilog-Game
+# Interactive Game
 A System Verilog-based FPGA game displayed on a monitor using VGA output. 
 ## To Run:
 Open files in Quartus Prime. This project used a DE0-CV (name filter: 5CEBA4F23C7) board.
